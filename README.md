@@ -23,4 +23,3 @@ Desafio individual de automação do curso da Accenture QE.
 ## Linguagens utilizadas
 
 - Java
-- Gherkin
